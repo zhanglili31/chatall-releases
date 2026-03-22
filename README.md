@@ -4,6 +4,7 @@
 
 ChatAll 是一款 AI 聚合对话桌面工具，让你在同一个窗口内同时与多家 AI 对话，方便横向对比各家回答质量。默认显示 ChatGPT、Gemini、豆包三个面板，支持自由添加或关闭最多 10 个 AI。
 支持 10 家 AI：ChatGPT、Gemini、Claude、Grok、DeepSeek、豆包、Kimi、千问、智谱、MiniMax
+本工具通过内嵌官方网页实现，使用时需遵守各 AI 平台的服务条款。账号风险由用户自行承担。
 ---
 
 ## 系统要求
